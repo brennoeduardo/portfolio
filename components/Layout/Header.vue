@@ -1,5 +1,5 @@
 <template>
-  <v-app-bar :elevation="0" density="compact" color="black">
+  <v-app-bar :elevation="0"  color="black">
     <v-app-bar-title>
       <v-img src="/logo_light.png" height="250" width="200" />
     </v-app-bar-title>
